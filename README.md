@@ -1,2 +1,2 @@
 # Certificates
-Adding Certificates to Repositary
+Adding Certificates to Repository
